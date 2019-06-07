@@ -1,0 +1,34 @@
+### Intellij ###
+.idea/
+*.ipr
+*.iws
+
+## Plugin-specific files:
+/out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# *.iml
+# modules.xml
+# .idea/misc.xml
+# *.ipr
+
+### Scala ###
+*.class
+*.log
+target
+logs
+lib_managed
+dist/
+data/
+*.class
+*.log
+*.iml
+*.zip
+*.jar
+*.env
+.env
+project/project/
+project/plugins/project/
+!lib/*.jar
