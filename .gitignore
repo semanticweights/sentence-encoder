@@ -32,3 +32,5 @@ data/
 project/project/
 project/plugins/project/
 !lib/*.jar
+
+universal_sentence_encoder_large_v3/
